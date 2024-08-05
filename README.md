@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Portfolio website.
 - 🌱 I’m currently learning Designing and Web Development.
 - 👯 I’m looking to collaborate with me for building websites. 
 - 🤔 I’m looking for help with designing.
