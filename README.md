@@ -47,8 +47,4 @@ Currently pursuing B.Tech in Computer Science (Class of 2027) with focus on web 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jasamansinghchaggar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=jasamansinghchaggar&icon=0&color=6)](https://visitcount.itsvg.in)
-
 *Building tomorrow's web solutions today*
