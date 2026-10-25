@@ -1,10 +1,6 @@
-# Full-Stack Developer
-
-Computer Science student at Arya College of Engineering, passionate about building scalable web applications and solving complex problems through code.
-
 ## About
 
-Currently pursuing B.Tech in Computer Science (Class of 2027) with focus on web development, logic building, and problem-solving. Experienced in modern web technologies and committed to writing clean, maintainable code.
+Currently pursuing B.Tech in Computer Science with focus on web development, logic building, and problem-solving. Experienced in modern web technologies and committed to writing clean, maintainable code.
 
 ## Tech Stack:
 ### Languages
@@ -21,10 +17,3 @@ Currently pursuing B.Tech in Computer Science (Class of 2027) with focus on web 
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## Currently Learning
-
-- Advanced TypeScript patterns and best practices
-- Microservices architecture design
-- AI/ML integration in web applications
-- Cloud technologies and DevOps methodologies
